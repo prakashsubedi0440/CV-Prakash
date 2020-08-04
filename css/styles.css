@@ -1,0 +1,58 @@
+body {
+  background-color: #EAF6F6;
+  border-style: none;
+  font-family: "Montserrat", sans-serif;
+  /*text-align: center;*/
+}
+
+hr {
+  background-color: white;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+  line-height: 1.5;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #66BFBF;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+li {
+  line-height: 1.5;
+}
+
+/*table {
+  margin: 0 auto ;*/
+
+  .container {
+    padding: 2% 2%;
+  }
+
+
+
+/*********ID SELECTOR************/
+
+#profile-image {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+/***********CLASS SELECTOR*********/
+.introduction {
+
+  /*display: inline;
+  position: relative;*/
+
+}
